@@ -1,0 +1,7 @@
+baseURL = "http://roysk9.github.io/test/"
+languageCode = "ja"
+title = "Yボタンがネギに見える"
+contentDir = "post"
+disableKinds = ["RSS", "sitemap"]
+[taxonomies]
+tag = "tags"
